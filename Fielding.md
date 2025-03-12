@@ -1,7 +1,7 @@
 # Fielding
 
 
-Fielding is converting a bench proven idea to a field proven idea. Fielding starts whith a finished [FVP] (ie we have anything that kind of looks like it could work) and stops where product development starts.
+Fielding is converting a bench proven idea to a field proven idea. Fielding starts whith a finished [[FVP]] (ie we have anything that kind of looks like it could work) and stops where product development starts.
 
 The goal then is to make something that works. No longer is barely working acceptable, but reliability, ease of use and marketability still need to be sacrificed for the sake of modifiability, speed of development and serviceability by its maker (it doesn't have to make much sense to anyone else yet).
 Cost should not be an important question (the cost of labour at this point is much greater than the cost of the thing itself and the prototype doesn't need to be replicated yet) and efficiency should only be interesting if it is the core of the prototype.
