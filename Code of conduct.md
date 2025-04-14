@@ -4,7 +4,9 @@
 
 # 1 : General rules
 
-## ASK IF YOU DONT KNOW
+## ASK IF YOU DON'T KNOW
+
+Fill in the Workshop Use form every time you go in the workshop.
 
 ### 1.1 : Cleanliness and Organization
 
@@ -21,13 +23,15 @@ That being said, damaging or breaking tools happens, leaving it broken without s
 
 - Report any malfunctioning or damaged tools immediately.
 - Report any missing tools and parts of tools (e.g.: missing bits for the screwdrivers).
-- Do not remove any tool from the workshop without noticing.
+- Do not remove any tool from the workshop without notifying.
 - Do not borrow tools for more than the current workday.
+- Fill in the tool borrowing page when borrowing and putting back tools.
 - Return all tools and materials to their designated storage locations.
+- Clean and tidy tools after use (see 1.1).
 ## 1.3 : Safety
 **Here are only the general safety rules; for station specific see section 2.**
 
-- Wear appropriate PPE. 
+- Wear appropriate PPE (ask if not sure). 
 - Handle dangerous equipment with care.
 - Know where the first aid kit is and how to use it.
 - Take special care in storing and keeping out of touch anything dangerous (e.g.: sharp/hot objects).
@@ -35,7 +39,7 @@ That being said, damaging or breaking tools happens, leaving it broken without s
 
 Currently, we do not have any safety approval so, until addenda ar made, the following activities are prohibited:
 
-- Cutting or sanding of fiber materials (e.g.: carbon fiber, glass fier ... )
+- Cutting or sanding of fiber materials (e.g.: carbon fiber, glass fiber ... )
 - Working with corrosive, toxic, pyrophoric and carcinogen chemicals 
 - Welding
 
@@ -58,7 +62,7 @@ In the meantime the first two can be done in the lightweight structure lab.
 	- if you know how to change the filament do it before leaving the station it only takes a minute
 	- if you do not know report it, someone will show you how
 - Do not leave any foreign object inside of the enclosure, those machines are deceptively fast.
-- Clean the buildplate of all residues after use.
+- Remove all residues from the buildplate after use.
 - Throw any trash in the bin (do not leave anything in the small compartments inside the enclosure).
 - Report any need for new materials.
 - If any material other than PLA is used, load it in the left extruder, notify it and leave a post-it note on the left filament door with the following :
@@ -81,13 +85,15 @@ In the meantime the first two can be done in the lightweight structure lab.
 #### 2.3.1 : Safety
 - Secure all materials properly using clamps or vices before working on them.
 - Wear safety goggles when cutting, drilling, or grinding.
-- Do **not** were gloves or scarves when using powertools
+- Do **not** wear gloves or scarves when using powertools
 - Disconnect equipment from power sources when changing attachments or performing maintenance.
+- Long hair should be worn up/tied.
+- Wear closed shoes.
 #### 2.3.2 : Use
 - Only use tools in an evironment devoid of mess
 - Ensure that all tools are fit for the task before starting work.
 - Put the bits back in their **Designated** place. Searching for a specific size of driver should be easy, not a pain.
-- If anything does not have a clear enough designated pace report it. 
+- If anything does not have a clear enough designated place report it. 
 - Maintain clear communication with others working nearby to avoid accidental interference.
 - Quickly wipe the surface after use.
 ## 2.4 : Electronics
